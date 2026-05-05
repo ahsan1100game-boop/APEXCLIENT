@@ -1,2 +1,2 @@
 # APEXCLIENT
-دومین کلاینت ایرانی | MineCraft Client
+دومین کلاینت ایرانی | Second Iranian Client
